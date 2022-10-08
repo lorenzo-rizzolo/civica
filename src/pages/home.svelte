@@ -10,6 +10,7 @@
     <MenuItem href="/pro/" text="Cerca Prodotti" />
     <MenuItem href="#" text="Le nostre sedi" />
   </Menu>
+  <Icon material="home"/>
 
 
   <!-- Toolbar -->
@@ -48,7 +49,7 @@
     Menu, 
     MenuItem 
   } from 'framework7-svelte';
-  
+
 
   export let f7route, f7router; // just to remove debug message
 </script>

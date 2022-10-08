@@ -1,0 +1,22 @@
+/* Your app custom styles here */
+.menu{
+    text-align: center;
+    font-size: 150%;
+}
+
+.page_menu{
+    font-size:200% ;
+}
+
+.mini_title{
+    color: blue;
+}
+.def{
+    color: rgb(158, 158, 158);
+    font-size: 90%;
+}
+
+.card{
+    width: 150px;
+    display: inline-block;
+}

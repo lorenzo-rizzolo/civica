@@ -48,6 +48,7 @@
     Menu, 
     MenuItem 
   } from 'framework7-svelte';
+  
 
   export let f7route, f7router; // just to remove debug message
 </script>

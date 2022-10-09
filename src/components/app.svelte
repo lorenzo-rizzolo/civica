@@ -7,10 +7,10 @@
         <Navbar class="page_menu" title="Menu"/>
         
         <Block class="menu">
-          <Block>Accedi</Block>
-          <Block>Registrati</Block>
-          <Block>Info</Block>
-          <Block><Link href="/pro/">Prodotti</Link></Block>
+          <Block class="link"><Link href="/accedi/">Accedi <Icon material="portrait"/></Link></Block>
+          <Block class="link">Registrati <Icon material="portrait"/></Block>
+          <Block class="link">Info<Icon material="navigation"/></Block>
+          <Block class="link"><Link href="/pro/">Prodotti<Icon material="bubble_chart"/></Link></Block>
         </Block>
       </Page>
     </View>

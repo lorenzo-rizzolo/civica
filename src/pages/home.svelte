@@ -1,16 +1,18 @@
 <Page name="home">
   <!-- Top Navbar -->
-  <Navbar >
+  <Navbar>
     <NavTitle class="nav_title">YourNewPhone</NavTitle>
   </Navbar>
 
+  <Block class="utente"><strong>Utente:</strong></Block>
+  <Block id="name_user">Accedi</Block>
+  
   <BlockTitle>Opzioni</BlockTitle>
   <Menu>
-    <MenuItem href="#" text="menu" panelOpen="left"/>
-    <MenuItem href="/pro/" text="Cerca Prodotti" />
-    <MenuItem href="#" text="Le nostre sedi" />
+    <MenuItem class="opt" href="#" text="menu" panelOpen="left"/>
+    <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" />
+    <MenuItem class="opt" href="#" text="Le nostre sedi"/>
   </Menu>
-  <Icon material="home"/>
 
   <!-- Toolbar -->
   <!--
@@ -21,7 +23,9 @@
   -->
   
 </Page>
+
 <script>
+  
   import {
     Accordion, 
     AccordionItem, 
@@ -43,6 +47,8 @@
     Col,
     Button, 
     theme, 
+    TreeviewItem, 
+    Treeview,
     Subnavbar, 
     Searchbar, 
     Menu, 

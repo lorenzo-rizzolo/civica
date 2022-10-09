@@ -1,6 +1,11 @@
 /* Your app custom styles here */
+.nav_title{
+    font-size: 170%;
+    color: blueviolet;
+}
+
 .menu{
-    text-align: center;
+    text-align: left;
     font-size: 150%;
 }
 
@@ -19,4 +24,18 @@
 .card{
     width: 150px;
     display: inline-block;
+}
+
+.but{
+    width: 50%;
+    margin:3%;
+}
+
+.link{
+    display: block;
+    color: white;
+}
+.utente, #name_user{
+    margin: 1%;
+    font-size: 130%;
 }

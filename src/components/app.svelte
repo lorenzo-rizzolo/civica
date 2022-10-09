@@ -10,7 +10,6 @@
           <Block class="link"><Link href="/accedi/">Accedi <Icon material="portrait"/></Link></Block>
           <Block class="link">Registrati <Icon material="portrait"/></Block>
           <Block class="link">Info<Icon material="navigation"/></Block>
-          <Block class="link"><Link href="/pro/">Prodotti<Icon material="bubble_chart"/></Link></Block>
         </Block>
       </Page>
     </View>

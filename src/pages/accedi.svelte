@@ -2,6 +2,7 @@
     <!-- Top Navbar -->
     <Navbar >
       <NavTitle class="nav_title">YourNewPhone</NavTitle>
+      <NavRight><Link back>Back </Link></NavRight>
     </Navbar>
   
     <Button class="but" fill on:click={testPrompt}>

@@ -1,16 +1,16 @@
-<Page name="home">
+<Page name="home" id="home">
   <!-- Top Navbar -->
   <Navbar>
-    <NavTitle class="nav_title">YourNewPhone</NavTitle>
+    <Block class="nav_title">MonItaly</Block>
+    <NavRight>
+      <Block class="utente"><strong>Utente:</strong></Block>
+      <Block id="name_user"><Menu><MenuItem class="opt" text="Accedi" panelOpen="left"/></Menu></Block>
+    </NavRight>
   </Navbar>
 
-  <Block class="utente"><strong>Utente:</strong></Block>
-  <Block id="name_user">Accedi</Block>
-  
-  <BlockTitle>Opzioni</BlockTitle>
+  <br>
   <Menu>
     <MenuItem class="opt" href="#" text="menu" panelOpen="left"/>
-    <MenuItem class="opt" href="#" text="Le nostre sedi"/>
     <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" iconMaterial="bubble_chart"/>
   </Menu>
 

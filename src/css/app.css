@@ -1,7 +1,8 @@
 /* Your app custom styles here */
 .nav_title{
-    font-size: 170%;
-    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    color: blue;
 }
 
 .menu{
@@ -36,6 +37,6 @@
     color: white;
 }
 .utente, #name_user{
-    margin: 1%;
-    font-size: 130%;
+    margin: 0%;
+    font-size: 115%;
 }

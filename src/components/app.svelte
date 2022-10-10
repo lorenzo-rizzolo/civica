@@ -9,7 +9,8 @@
         <Block class="menu">
           <Block class="link"><Link href="/accedi/">Accedi <Icon material="portrait"/></Link></Block>
           <Block class="link">Registrati <Icon material="portrait"/></Block>
-          <Block class="link">Info<Icon material="navigation"/></Block>
+          <Block class="link">Info <Icon material="info"/></Block>
+          <Block class="link">Sedi<Icon material="navigation"/></Block>
         </Block>
       </Page>
     </View>

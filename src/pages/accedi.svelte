@@ -1,8 +1,8 @@
 <Page name="home">
     <!-- Top Navbar -->
     <Navbar >
-      <NavTitle class="nav_title">YourNewPhone</NavTitle>
-      <NavLeft><Link back>Back </Link></NavLeft>
+      <NavTitle class="nav_title">MonItaly</NavTitle>
+      <NavLeft><Link back>Back</Link></NavLeft>
     </Navbar>
   
     <Button class="but" fill on:click={testPrompt}>

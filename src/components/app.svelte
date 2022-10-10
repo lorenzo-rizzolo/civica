@@ -7,7 +7,9 @@
         <Navbar class="page_menu" title="Menu"/>
         
         <Block class="menu">
-          <Block class="link"><Link href="/accedi/">Accedi <Icon material="portrait"/></Link></Block>
+          <Button class="but" fill on:click={testPrompt}>
+            Accedi <Icon material="portrait"/>
+          </Button>
           <Block class="link">Registrati <Icon material="portrait"/></Block>
           <Block class="link">Info <Icon material="info"/></Block>
           <Block class="link">Sedi<Icon material="navigation"/></Block>
@@ -20,9 +22,22 @@
   <View main class="safe-areas" url="/" />
 </App>
 <script>
+  const testAlert = () => alert("alert.");
+      const testPrompt = async () => {
+      let nome = await prompt("Scrivi il tuo nome: ");
+      let cognome = await prompt("Scrivi il tuo cognome: ");
+      if(nome && cognome){
+        //alert(answer);
+        document.getElementById('name_user').innerHTML = nome+" - "+cognome;
+      }else{
+        alert("Compila tutti e due i campi");
+      }
+    };
+
   import { onMount } from 'svelte';
 
   import {
+    Button,
     f7,
     f7ready,
     App,

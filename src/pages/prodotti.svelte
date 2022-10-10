@@ -46,24 +46,12 @@
         </AccordionContent>
       </ListItem>
       <!--elemento-->
-      <ListItem accordionItem title="Xiaomi S1">
+      <ListItem accordionItem title="Ducati Pro2">
         <AccordionContent class="list">
           <!--colore-->
           <Card class="card">
             <Block class="mini_title">Modifiche</Block>
             <Block class="def">NO</Block>
-            <Block class="mini_title">Velocità</Block>
-            <Block class="def">20 kh/h</Block>
-            <Block class="mini_title">Autonomia</Block>
-            <Block class="def">20 km</Block>
-            <Block class="mini_title">Prezzo</Block>
-            <Block class="def">320 €</Block>
-            <Block class="mini_title">Stato</Block>
-            <Block class="def">Nuovo</Block>
-          </Card>
-          <Card class="card">
-            <Block class="mini_title">Modifiche</Block>
-            <Block class="def">SI</Block>
             <Block class="mini_title">Velocità</Block>
             <Block class="def">20 kh/h</Block>
             <Block class="mini_title">Autonomia</Block>

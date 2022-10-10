@@ -16,154 +16,27 @@
     </List>
     <List class="search-list searchbar-found">
       <!--elemento-->
-      <ListItem accordionItem title="Iphone 11">
+      <ListItem accordionItem title="Xiaomi Essential">
         <AccordionContent class="list">
           <!--colore-->
-          <ListItem accordionItem title="Grigio siderale">
-            <AccordionContent class="list">
-              <Card class="card">
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">64 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">128 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">256 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">512 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-            </AccordionContent>
-          </ListItem>
-          <!--colore-->
-          <ListItem accordionItem title="Bianco">
-            <AccordionContent class="list">
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">64 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">128 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">256 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">512 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-            </AccordionContent>
-          </ListItem>
-          <ListItem accordionItem title="Lilla">
-            <AccordionContent class="list">
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">64 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">128 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">256 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">512 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-            </AccordionContent>
-          </ListItem>
-          <ListItem accordionItem title="Verdino">
-            <AccordionContent class="list">
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">64 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">128 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">256 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card>
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">512 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-            </AccordionContent>
-          </ListItem>
+          <Card class="card">
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320€</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+          <Card>
+            <Block class="mini_title">Memoria</Block>
+            <Block class="def">128 Gb</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">0 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
         </AccordionContent>
       </ListItem>
       <!--elemento-->

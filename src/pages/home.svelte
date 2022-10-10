@@ -11,6 +11,8 @@
   <br>
   <Menu>
     <MenuItem class="opt" href="#" text="menu" panelOpen="left"/>
+  </Menu><br>
+  <Menu>
     <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" iconMaterial="bubble_chart"/>
   </Menu>
 

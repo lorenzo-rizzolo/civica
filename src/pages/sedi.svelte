@@ -1,7 +1,7 @@
 <Page name="home" id="home">
     <!-- Top Navbar -->
     <Navbar>
-      <Block class="nav_title2">Default_page</Block>
+      <Block class="nav_title2">Sedi</Block>
       <NavRight><Link back>Back</Link></NavRight>
       <Subnavbar inner={false}>
         <Searchbar

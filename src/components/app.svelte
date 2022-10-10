@@ -11,7 +11,7 @@
             Accedi <Icon material="portrait"/>
           </Button>
           <Block class="link">Registrati <Icon material="portrait"/></Block>
-          <Block class="link">Info <Icon material="info"/></Block>
+          <Block class="link">Info<Icon material="info"/></Block>
           <Block class="link" ><Link href="/sedi/" style="display:inline-block;">Sedi</Link><Icon material="navigation"/></Block>
         </Block>
       </Page>

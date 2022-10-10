@@ -6,7 +6,7 @@
     </Navbar>
   
     <Button class="but" fill on:click={testPrompt}>
-      nome
+      nome e cognome
     </Button>
   
     <!-- Toolbar -->

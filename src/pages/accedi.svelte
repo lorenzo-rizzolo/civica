@@ -22,10 +22,11 @@
   <script>
     const testAlert = () => alert("alert.");
       const testPrompt = async () => {
-      let answer = await prompt("Scrivi il tuo nome: ");
-      if(answer){
+      let nome = await prompt("Scrivi il tuo nome: ");
+      let cognome = await prompt("Scrivi il tuo cognome: ");
+      if(answer && cognome){
         //alert(answer);
-        document.getElementById('name_user').innerHTML = answer;
+        document.getElementById('name_user').innerHTML = nome+cognome;
       }
     };
     

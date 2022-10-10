@@ -25,10 +25,9 @@
   const testAlert = () => alert("alert.");
       const testPrompt = async () => {
       let nome = await prompt("Scrivi il tuo nome: ");
-      let cognome = await prompt("Scrivi il tuo cognome: ");
-      if(nome && cognome){
+      if(nome){
         //alert(answer);
-        document.getElementById('name_user').innerHTML = nome+" - "+cognome;
+        document.getElementById('name_user').innerHTML = nome;
       }else{
         alert("Compila tutti e due i campi");
       }

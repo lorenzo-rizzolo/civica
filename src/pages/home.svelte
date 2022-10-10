@@ -10,8 +10,8 @@
   <BlockTitle>Opzioni</BlockTitle>
   <Menu>
     <MenuItem class="opt" href="#" text="menu" panelOpen="left"/>
-    <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" iconMaterial="bubble_chart"/>
     <MenuItem class="opt" href="#" text="Le nostre sedi"/>
+    <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" iconMaterial="bubble_chart"/>
   </Menu>
 
   <!-- Toolbar -->

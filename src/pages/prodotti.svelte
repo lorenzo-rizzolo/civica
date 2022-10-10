@@ -20,53 +20,149 @@
         <AccordionContent class="list">
           <!--colore-->
           <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">NO</Block>
             <Block class="mini_title">Velocità</Block>
             <Block class="def">20 kh/h</Block>
             <Block class="mini_title">Autonomia</Block>
-            <Block class="def">20km</Block>
+            <Block class="def">20 km</Block>
             <Block class="mini_title">Prezzo</Block>
-            <Block class="def">320€</Block>
+            <Block class="def">320 €</Block>
             <Block class="mini_title">Stato</Block>
             <Block class="def">Nuovo</Block>
           </Card>
-          <Card>
-            <Block class="mini_title">Memoria</Block>
-            <Block class="def">128 Gb</Block>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">SI</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
             <Block class="mini_title">Prezzo</Block>
-            <Block class="def">0 €</Block>
+            <Block class="def">320 €</Block>
             <Block class="mini_title">Stato</Block>
             <Block class="def">Nuovo</Block>
           </Card>
         </AccordionContent>
       </ListItem>
       <!--elemento-->
-      <ListItem accordionItem title="Iphone 11 Pro">
+      <ListItem accordionItem title="Xiaomi S1">
         <AccordionContent class="list">
           <!--colore-->
-          <ListItem accordionItem title="Grigio siderale">
-            <AccordionContent class="list">
-              <Card class="card">
-                <Block class="mini_title">Memoria</Block>
-                <Block class="def">64 Gb</Block>
-                <Block class="mini_title">Prezzo</Block>
-                <Block class="def">0 €</Block>
-                <Block class="mini_title">Stato</Block>
-                <Block class="def">Nuovo</Block>
-              </Card>
-              <Card></Card>
-              <Card></Card>
-              <Card></Card>
-            </AccordionContent>
-          </ListItem>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">NO</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">SI</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+        </AccordionContent>
+      </ListItem>
+      <!--elemento-->
+      <ListItem accordionItem title="Xiaomi Pro2">
+        <AccordionContent class="list">
           <!--colore-->
-          <ListItem accordionItem title="Bianco">
-            <AccordionContent class="list">
-              <Card></Card>
-              <Card></Card>
-              <Card></Card>
-              <Card></Card>
-            </AccordionContent>
-          </ListItem>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">NO</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">SI</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+        </AccordionContent>
+      </ListItem>
+      <!--elemento-->
+      <ListItem accordionItem title="Ninebot">
+        <AccordionContent class="list">
+          <!--colore-->
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">NO</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">SI</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+        </AccordionContent>
+      </ListItem>
+      <!--elemento-->
+      <ListItem accordionItem title="Ducati">
+        <AccordionContent class="list">
+          <!--colore-->
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">NO</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
+          <Card class="card">
+            <Block class="mini_title">Modifiche</Block>
+            <Block class="def">SI</Block>
+            <Block class="mini_title">Velocità</Block>
+            <Block class="def">20 kh/h</Block>
+            <Block class="mini_title">Autonomia</Block>
+            <Block class="def">20 km</Block>
+            <Block class="mini_title">Prezzo</Block>
+            <Block class="def">320 €</Block>
+            <Block class="mini_title">Stato</Block>
+            <Block class="def">Nuovo</Block>
+          </Card>
         </AccordionContent>
       </ListItem>
       

@@ -4,6 +4,7 @@ import AboutPage from '../pages/about.svelte';
 import FormPage from '../pages/form.svelte';
 import Prodotti from '../pages/prodotti.svelte';
 import accedi from '../pages/accedi.svelte';
+import sedi from '../pages/sedi.svelte';
 import DynamicRoutePage from '../pages/dynamic-route.svelte';
 import RequestAndLoad from '../pages/request-and-load.svelte';
 import NotFoundPage from '../pages/404.svelte';
@@ -16,6 +17,10 @@ var routes = [
   {
     path: '/about/',
     component: AboutPage,
+  },
+  {
+    path: '/sedi/',
+    component: sedi,
   },
   {
     path: '/accedi/',

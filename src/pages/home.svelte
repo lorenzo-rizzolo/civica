@@ -1,20 +1,15 @@
 <Page name="home" id="home">
   <!-- Top Navbar -->
   <Navbar>
-    <Block class="nav_title">MonItaly</Block>
+    <Block class="nav_title">SkyBar</Block>
     <NavRight>
-      <Block class="utente"><strong>Utente:</strong></Block>
-      <Block id="name_user"><Menu><MenuItem class="opt" text="Accedi" panelOpen="left"/></Menu></Block>
+      <Menu>
+        <MenuItem class="opt" href="#" text="menu" panelOpen="right"/>
+      </Menu><br>
     </NavRight>
   </Navbar>
 
   <br>
-  <Menu>
-    <MenuItem class="opt" href="#" text="menu" panelOpen="left"/>
-  </Menu><br>
-  <Menu>
-    <MenuItem class="opt" href="/pro/" text="Cerca Prodotti" iconMaterial="bubble_chart"/>
-  </Menu>
 </Page>
 
 <script>

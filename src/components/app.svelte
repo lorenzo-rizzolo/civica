@@ -1,15 +1,12 @@
 <App { ...f7params } >
 
   <!-- Left panel with cover effect-->
-  <Panel left cover dark>
+  <Panel right cover dark>
     <View>
       <Page>
         <Navbar class="page_menu" title="Menu"/>
         
         <Block class="menu">
-          <Button class="but" fill on:click={testPrompt}>
-            Accedi <Icon material="portrait"/>
-          </Button>
           <Block class="link">Registrati <Icon material="portrait"/></Block>
           <Block class="link">Info<Icon material="info"/></Block>
           <Block class="link" ><Link href="/sedi/" style="display:inline-block;">Sedi</Link><Icon material="navigation"/></Block>
@@ -17,12 +14,11 @@
       </Page>
     </View>
   </Panel>
-
   <!-- Your main view, should have "view-main" class -->
   <View main class="safe-areas" url="/" />
 </App>
 <script>
-  const testAlert = () => alert("alert.");
+  /*const testAlert = () => alert("alert.");
       const testPrompt = async () => {
       let nome = await prompt("Scrivi il tuo nome: ");
       if(nome){
@@ -31,7 +27,7 @@
       }else{
         alert("Compila tutti e due i campi");
       }
-    };
+    };*/
 
   import { onMount } from 'svelte';
 

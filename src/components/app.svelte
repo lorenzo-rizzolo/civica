@@ -5,11 +5,9 @@
     <View>
       <Page>
         <Navbar class="page_menu" title="Menu"/>
-        
         <Block class="menu">
-          <Block class="link">Registrati <Icon material="portrait"/></Block>
-          <Block class="link">Info<Icon material="info"/></Block>
-          <Block class="link" ><Link href="/sedi/" style="display:inline-block;">Sedi</Link><Icon material="navigation"/></Block>
+          <Block  class="link">Mafia</Block><br>
+          <Block  class="link">Admin</Block>
         </Block>
       </Page>
     </View>
@@ -18,6 +16,9 @@
   <View main class="safe-areas" url="/" />
 </App>
 <script>
+  function mafia(){
+    alert("cioa");
+  }
   /*const testAlert = () => alert("alert.");
       const testPrompt = async () => {
       let nome = await prompt("Scrivi il tuo nome: ");
@@ -65,7 +66,7 @@
 
   // Framework7 Parameters
   let f7params = {
-    name: 'My App', // App name
+    name: 'Edcivica', // App name
     theme: 'auto', // Automatic theme detection
 
 

@@ -1,16 +1,22 @@
 <Page name="home" id="home">
   <!-- Top Navbar -->
   <Navbar>
-    <Block class="nav_title">SkyBar</Block>
+    <Block class="nav_title">Educazione Civica</Block>
     <NavRight>
-      <Menu>
-        <MenuItem class="opt" href="#" text="menu" panelOpen="right"/>
-      </Menu><br>
+      <!-- <Button href="#" text="Progetti" panelOpen="right"/> -->
+      Lorenzo Rizzolo
     </NavRight>
   </Navbar>
 
+  <center><img src="svelte-welcome.png" alt="welcome"></center>
+  <center><h1 class="pres">Benvenuti nel sito di Lorenzo Rizzolo su Educazione Civica.</h1></center>
+
   <br>
+
+  
+
 </Page>
+
 
 <script>
   
